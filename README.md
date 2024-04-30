@@ -21,9 +21,10 @@
     <img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Mi Discord" height="23px" width="28px" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
    <a href="https://scrbnll.github.io/SCrbnllDev/">Observa mi portfolio</a>
 </p>
+--!>
 
 <!--
 **SCrbnll/SCrbnll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
