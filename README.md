@@ -22,7 +22,7 @@
   </a>
 </p>
 <p align="center">
-   <a href="https://scrbnll.github.io/">Observa mi portfolio</a>
+   <a href="https://scrbnll.github.io/SCrbnllDev/">Observa mi portfolio</a>
 </p>
 
 <!--
