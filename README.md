@@ -48,6 +48,8 @@
    <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&style=flat" />  
    <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&style=flat" />
    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&style=flat" />
+   <img alt="SpringFramework" src="https://img.shields.io/badge/Spring Framework-007958?style=for-the-badge&logo=spring&logoColor=white&style=flat" />
+   <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-5A5539?style=for-the-badge&logo=hibernate&logoColor=white&style=flat" />
    <img alt="Azure" src="https://img.shields.io/badge/Azure-07405E?style=for-the-badge&logo=microsoft-azure&logoColor=white&style=flat" />
 </p>
   <h4>Tools</h4>
