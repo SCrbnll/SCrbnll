@@ -38,6 +38,7 @@
 <p>
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=flat" />
   <img alt="Expo" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white&style=flat" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-0553B1?style=for-the-badge&logo=flutter&logoColor=white&style=flat" />
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&style=flat" />
   <img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&style=flat" />
 </p>
