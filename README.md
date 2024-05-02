@@ -26,21 +26,21 @@
 </p>
 <h4>Web Development</h4>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=flat" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=61DAFB&style=flat" />
-  <!-- <img alt="Astro" src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE&style=flat" /> --!>
-  <img alt="Scss" src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=white&style=flat" />
-  <!-- <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind CSS-38B2AC?&logo=tailwind+css&logoColor=white&style=flat"/> --!>
+   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=flat" />
+   <img alt="Angular" src="https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=61DAFB&style=flat" />
+   <!-- <img alt="Astro" src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE&style=flat" /> --!>
+   <img alt="Scss" src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=white&style=flat" />
+   <!-- <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind CSS-38B2AC?&logo=tailwind+css&logoColor=white&style=flat"/> --!>
    
 </p>
 </p>
 <h4>Mobile Development</h4>
 <p>
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=flat" />
-  <img alt="Expo" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white&style=flat" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-0553B1?style=for-the-badge&logo=flutter&logoColor=white&style=flat" />
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&style=flat" />
-  <img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&style=flat" />
+   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=flat" />
+   <img alt="Expo" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white&style=flat" />
+   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-0553B1?style=for-the-badge&logo=flutter&logoColor=white&style=flat" />
+   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&style=flat" />
+   <img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&style=flat" />
 </p>
    
 <h4>Data</h4>
@@ -51,11 +51,12 @@
    <img alt="Azure" src="https://img.shields.io/badge/Azure-07405E?style=for-the-badge&logo=microsoft-azure&logoColor=white&style=flat" />
 </p>
   <h4>Tools</h4>
-<p>  
-  <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&style=flat" />
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat" />
-  <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&style=flat" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&style=flat" />
+<p>
+   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-00008B?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=flat" />
+   <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&style=flat" />
+   <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat" />
+   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&style=flat" />
+   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&style=flat" />
 </p>
 
 
