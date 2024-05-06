@@ -41,6 +41,7 @@
    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-0553B1?style=for-the-badge&logo=flutter&logoColor=white&style=flat" />
    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&style=flat" />
    <img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&style=flat" />
+   <img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&style=flat" />
 </p>
    
 <h4>Data</h4>
@@ -52,6 +53,12 @@
    <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-5A5539?style=for-the-badge&logo=hibernate&logoColor=white&style=flat" />
    <img alt="Azure" src="https://img.shields.io/badge/Azure-07405E?style=for-the-badge&logo=microsoft-azure&logoColor=white&style=flat" />
 </p>
+
+<h4>Games Development</h4>
+<p>
+   <img alt="Unity" src="https://img.shields.io/badge/Unity-3A3A3A?style=for-the-badge&logo=unity&logoColor=61DAFB&style=flat" />
+</p>
+
   <h4>Tools</h4>
 <p>
    <img alt="VSCode" src="https://img.shields.io/badge/VSCode-00008B?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=flat" />
