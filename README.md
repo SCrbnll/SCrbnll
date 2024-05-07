@@ -28,9 +28,8 @@
 <p>
    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=flat" />
    <img alt="Angular" src="https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=61DAFB&style=flat" />
-   <!-- <img alt="Astro" src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE&style=flat" /> --!>
    <img alt="Scss" src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=white&style=flat" />
-   <!-- <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind CSS-38B2AC?&logo=tailwind+css&logoColor=white&style=flat"/> --!>
+   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind CSS-38B2AC?&logo=tailwind+css&logoColor=white&style=flat"/>
    
 </p>
 </p>
