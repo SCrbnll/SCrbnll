@@ -2,18 +2,15 @@
    <img align="center" width="200" src="https://scrbnll.github.io/SCrbnllDev/assets/myself-DgevRF3_.jpg" />
    <h3 align="center">👨🏻‍💻 ¡Encantado! Soy Samuel Carbonell 👨🏻‍💻<br />Programador Junior en constante desarrollo</h3>
    <br />
-   <br />
-   
-   - 👨‍💻 Mi portfolio : **https://scrbnll.github.io/SCrbnllDev/**
-
-   - 📫 ¡Contáctame! : **samuelcarbonell1203@gmail.com**
 </p>
 
 <h3 align="left">Dónde encontrarme:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/samuu-crbnll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignacio-lacruz-ba018a22b" height="30" width="40" /></a>
-<a href="https://discord.com/users/720332640498221106" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Mi Discord" height="30" width="40" /></a>
-</p>
+<div align="left">
+   <a href="mailto:samuelcarbonell1203@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+   <a href="https://linkedin.com/in/samuu-crbnll" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
+   <a href="https://scrbnll.github.io/SCrbnllDev/" target="blank"><img src="https://img.shields.io/static/v1?message=Porfolio&logo=files&label=&color=7600bc&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="porfolio logo"  /></a>
+   <a href="https://discord.com/users/720332640498221106" target="blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+</div>
 
 <h3>Conocimientos</h3>
 <p>
@@ -53,21 +50,13 @@
    <img alt="Azure" src="https://img.shields.io/badge/Azure-07405E?style=for-the-badge&logo=microsoft-azure&logoColor=white&style=flat" />
 </p>
 
-<h4>Games Development</h4>
-<p>
-   <img alt="Unity" src="https://img.shields.io/badge/Unity-3A3A3A?style=for-the-badge&logo=unity&logoColor=61DAFB&style=flat" />
-</p>
-
-  <h4>Tools</h4>
-<p>
-   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-00008B?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=flat" />
-   <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&style=flat" />
-   <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat" />
-   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&style=flat" />
-   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&style=flat" />
-</p>
-
-
 <h3>Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SCrbnll&show_icons=true&theme=tokyonight&locale=es&layout=compact&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="SCrbnll" /></p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SCrbnll&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="200" alt="languages graph"  />
+</div>
+
+
+
+
+###
  
