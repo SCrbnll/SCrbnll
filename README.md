@@ -54,12 +54,6 @@
    <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&style=flat" />
 </p>
 
-<h4>Herramientas de Desarrollo</h4>
-<p>
-   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&style=flat" />
-   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&style=flat" />
-</p>
-
 <h4>Mobile Development</h4>
 <p>
    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=flat" />
