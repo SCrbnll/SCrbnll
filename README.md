@@ -48,6 +48,7 @@
 <p>
    <img alt="AWS" src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white&style=flat" />
    <img alt="Azure" src="https://img.shields.io/badge/Microsoft Azure-07405E?style=for-the-badge&logo=microsoft-azure&logoColor=white&style=flat" />
+   <img alt="Apache" src="https://img.shields.io/badge/Apache-800080?style=for-the-badge&logo=apache&logoColor=white&style=flat" />
    <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&style=flat" />
 </p>
 
