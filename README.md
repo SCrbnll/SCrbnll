@@ -27,7 +27,7 @@
    <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&style=flat" />
    <img alt="Angular" src="https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=61DAFB&style=flat" />
    <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind CSS-38B2AC?&logo=tailwind+css&logoColor=white&style=flat"/>
-   <img alt="SASS" src="https://img.shields.io/badge/SASS-CC6699?&logo=sass&logoColor=white&style=flat"/>
+   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=white&style=flat"/>
 </p>
 
 <h4>Backend</h4>
