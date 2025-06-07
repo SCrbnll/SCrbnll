@@ -8,9 +8,9 @@
 <div align="left">
 
    <p align="center">
-     <a href="mailto:samuelcarbonell1203@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-      <a href="https://linkedin.com/in/samuu-crbnll" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
-      <a href="https://samuelcg.com" target="blank"><img src="https://img.shields.io/static/v1?message=Porfolio&logo=files&label=&color=7600bc&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="porfolio logo"  /></a>
+     <a href="mailto:samuelcarbonell1203@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+      <a href="https://linkedin.com/in/samuu-crbnll" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
+      <a href="https://samuelcg.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Porfolio&logo=files&label=&color=7600bc&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="porfolio logo"  /></a>
    </p>
 </div>
 
