@@ -4,63 +4,25 @@
    <br />
 </p>
 
-<h3 align="left">Dónde encontrarme:</h3>
+## 📫 ¿Dónde encontrarme?
 <div align="left">
-   <a href="mailto:samuelcarbonell1203@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-   <a href="https://linkedin.com/in/samuu-crbnll" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
-   <a href="https://samuelcg.com" target="blank"><img src="https://img.shields.io/static/v1?message=Porfolio&logo=files&label=&color=7600bc&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="porfolio logo"  /></a>
-   
+
+   <p align="center">
+     <a href="mailto:samuelcarbonell1203@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+      <a href="https://linkedin.com/in/samuu-crbnll" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
+      <a href="https://samuelcg.com" target="blank"><img src="https://img.shields.io/static/v1?message=Porfolio&logo=files&label=&color=7600bc&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="porfolio logo"  /></a>
+   </p>
 </div>
 
-<h4>Lenguajes</h4>
-<p>
-   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&style=flat" />
-   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
-   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
-   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat" />
-   <img alt="C#" src="https://img.shields.io/badge/CSharp-556472?logo=sharp&logoColor=white&style=flat" />
-</p>
+## 💻 Tecnologías y Herramientas
 
-<h4>Frontend</h4>
-<p>
-   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=flat" />
-   <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&style=flat" />
-   <img alt="Angular" src="https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=61DAFB&style=flat" />
-   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=white&style=flat"/>
-</p>
+| Frontend                                                                                                                                             | Backend                                                                                                                                                     | Bases de Datos                                                                                       | DevOps / Infraestructura                                                                                                                                       | Mobile Development                                                                                      | Otros                                                                                                                 |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Astro](https://img.shields.io/badge/Astro-FF5A03?style=flat-square&logo=astro&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FD7E14?style=flat-square&logo=amazon-web-services&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-07405E?style=flat-square&logo=microsoft-azure&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-0553B1?style=flat-square&logo=flutter&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) | ![C#](https://img.shields.io/badge/CSharp-556472?style=flat-square&logo=sharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) |
 
-<h4>Backend</h4>
-<p>
-   <img alt="SpringFramework" src="https://img.shields.io/badge/Spring Framework-007958?style=for-the-badge&logo=spring&logoColor=white&style=flat" />
-   <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-5A5539?style=for-the-badge&logo=hibernate&logoColor=white&style=flat" />
-   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=61DAFB&style=flat" />
-   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&style=flat" />
-</p>
 
-<h4>Bases de Datos</h4>
-<p>
-   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&style=flat" />
-   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&style=flat" />
-</p>
-
-<h4>DevOps / Infraestructura</h4>
-<p>
-   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white&style=flat" />
-   <img alt="Azure" src="https://img.shields.io/badge/Microsoft Azure-07405E?style=for-the-badge&logo=microsoft-azure&logoColor=white&style=flat" />
-   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&style=flat" />
-   <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white&style=flat" />
-   <img alt="Apache" src="https://img.shields.io/badge/Apache-800080?style=for-the-badge&logo=apache&logoColor=white&style=flat" />
-</p>
-
-<h4>Mobile Development</h4>
-<p>
-   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=flat" />
-   <img alt="Expo" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white&style=flat" />
-   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-0553B1?style=for-the-badge&logo=flutter&logoColor=white&style=flat" />
-</p>
-
-<h3>Stats</h3>
-<div align="left">
+## 🎯 Estadísticas
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SCrbnll&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
